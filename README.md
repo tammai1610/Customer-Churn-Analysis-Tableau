@@ -11,6 +11,7 @@ analyzing problems and proposing strategic recommendations.
 - Behavioral and Demographic: Churn by Customer's Points Earned and Customer's Location.
 
 𝌣 Insights & Recommendations:
+
 💡 Churn Rate: 20.38% (2,038 churned customers out of 10,000)
 
 💡 Card Usage, Tenure, and Age: 
